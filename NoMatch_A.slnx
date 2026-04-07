@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="NoMatch_A/NoMatch_A.vcxproj" />
+  <Project Path="NoMatch_A/NoMatch_A.vcxproj" Id="8ba2aaa8-d71f-4947-8bbf-246be6ffff8a" />
 </Solution>

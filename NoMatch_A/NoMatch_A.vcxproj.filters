@@ -15,7 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\NoMatch_A\NoMatch_A\递归.cpp">
+    <ClCompile Include="FileName.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B4447.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B4412.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B4411.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Template.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="late.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
