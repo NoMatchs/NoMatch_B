@@ -33,5 +33,14 @@
     <ClCompile Include="late.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="B4357.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B4356.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B4260.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
