@@ -1,4 +1,2 @@
-﻿  B4064.cpp
-D:\Code_A\NoMatch_B\NoMatch_A\B4064.cpp(8,7): warning C4244: “初始化”: 从“double”转换到“ll”，可能丢失数据
-D:\Code_A\NoMatch_B\NoMatch_A\B4064.cpp(21,7): warning C4244: “初始化”: 从“double”转换到“ll”，可能丢失数据
+﻿  4007.cpp
   NoMatch_A.vcxproj -> D:\Code_A\NoMatch_B\x64\Debug\NoMatch_A.exe

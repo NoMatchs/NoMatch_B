@@ -48,5 +48,20 @@
     <ClCompile Include="B4064.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4065.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4037.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4007.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4002.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
